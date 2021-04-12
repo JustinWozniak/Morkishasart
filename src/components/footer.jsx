@@ -7,7 +7,7 @@ export const Footer = (props) => {
           <p>
             &copy; 2021 Justin Wozniak{' '}
             <a href='https://github.com/JustinWozniak' rel='nofollow'>
-              TemplateWire
+              Github
             </a>
           </p>
         </div>
